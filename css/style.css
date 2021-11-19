@@ -1,0 +1,50 @@
+body {
+    background-color: #B4C6A6;
+}
+
+hr {
+    border-color: darkslategray;
+    align-items: center;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 5%;
+}
+
+
+/* classssssssss seletor css*/
+
+.name {
+    text-align: center;
+    font-size: 35px;
+}
+
+.intro {
+    text-align: center;
+    font-size: 20px;
+    color: black;
+    background-color: #66806A;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 11px;
+}
+
+.em {
+    text-align: center;
+    font-size: 20px;
+}
+
+#circuler {
+    border-radius: 100%;
+}
+
+.heading3 {
+    font-size: 20px;
+    background-color: #66806A;
+    padding: 5px;
+}
+
+.heading3:hover {
+    color: whitesmoke;
+    background-color: grey;
+}
